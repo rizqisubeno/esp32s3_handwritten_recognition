@@ -1,4 +1,5 @@
 | Supported Targets | ESP32-S3 |
+|  ESP-IDF Version  |  v5.1.1  |
 | ----------------- | -------- |
 
 # _Handwritten Digit Recognition Project_
