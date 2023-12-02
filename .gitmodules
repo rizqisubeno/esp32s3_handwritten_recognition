@@ -1,3 +1,6 @@
 [submodule "components/tflite-micro"]
 	path = components/tflite-micro
 	url = https://github.com/espressif/esp-tflite-micro.git
+[submodule "components/lvgl"]
+	path = components/lvgl
+	url = https://github.com/lvgl/lvgl.git
